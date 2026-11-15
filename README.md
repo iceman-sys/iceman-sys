@@ -1,91 +1,127 @@
-# 🌟 iceman-sys's Developer Profile
+<!--
+  ICEMAN | GAME DEVELOPER PROFILE
+  GitHub: https://github.com/iceman-sys
+-->
 
-> **Senior Full-Stack Engineer | Passionate about building scalable, user-centric applications with React, Node.js, and AI.**  
-> 🌍 Open to collaborations, mentorship, and exploring the future of Web3 and blockchain.
+<div align="center">
 
----
+<img src="./assets/github-banner.png" width="100%" alt="Iceman - Senior Game Developer"/>
 
-## 🏆 GitHub Profile Trophy
+# 👾 Iceman
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceman-sys&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iceman-sys&layout=compact&langs_count=8&theme=radical)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iceman-sys&no-bg=true&no-frame=true&theme=radical&column=8)
+### Senior Game Developer | Unity | C# | Multiplayer | AI
 
----
+**Building immersive gaming experiences and intelligent interactive applications.**
 
-## 📊 GitHub Activity Summary
+[![GitHub](https://img.shields.io/badge/GitHub-iceman--sys-181717?style=for-the-badge&logo=github)](https://github.com/iceman-sys)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github)](https://github.com/iceman-sys?tab=repositories)
 
-| 📂 Repositories | 🌐 Most Used Language | 📈 Commit Frequency | ⏳ Productive Time |
-|------------------|------------------------|----------------------|---------------------|
-| [View Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iceman-sys&theme=algolia) | [View Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iceman-sys&theme=algolia) | [View Commits](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iceman-sys&theme=algolia) | [View Productivity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iceman-sys&theme=algolia&utcOffset=8) |
-
----
-
-## 💡 My Best Skills (Ranked)
-
-### 🔧 Frontend
-| React | Next.js | Remix | Vue | Redux | TailwindCSS | SCSS | Javascript | ES6+ | Typescript | WordPress | Shopify |
-|-------|---------|-------|-----|-------|-------------|------|------------|------|------------|-----------|---------|
-| Svelte | Gatsby | Angular | Nuxt.js | MaterialUI | Babel | Three.js | D3.js | ChartJS | React Hook Form | |
-
-### ⚙️ Backend & DevOps
-| Node.js | Express | Nest.js | Python | Django | Flask | AWS | REST API | GraphQL | tRPC |
-|---------|---------|--------|--------|--------|-------|-----|----------|---------|------|
-| PostgreSQL | MySQL | MongoDB | Redis | ORM (Prisma, Sequelize, TypeORM, SQLAlchemy) | Knex | Hasura | Web3.js | Solidity | Smart Contracts |
-
-### 📱 Mobile & Databases
-| React Native | Android (Java) | C# | Flutter | SQLite | MongoDB | PostgreSQL | MySQL | Redis | ORM |
-
-### 🌐 Others
-| Adobe XD | Blockchain | Web3.js | Three.js | Apollo GraphQL | AI/ML | PHP | Laravel | Ruby | C++ |
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🎮 About Me
 
-- **[Lovable App](https://lovable.app)** – Senior Engineer | Built scalable backend systems and optimized real-time user interactions.
-- **[Web3 Dashboard](https://github.com/yourusername/web3-dashboard)** – Developed a blockchain analytics tool using Solidity and React.
-- **[AI-Powered E-commerce Platform](https://github.com/yourusername/ai-shop)** – Integrated AI recommendations with Shopify using Node.js and Python.
+Hello! I'm **Iceman**, a software developer focused on game development and modern application engineering.
 
----
+I enjoy building interactive experiences, developing reliable software systems, and exploring the intersection of AI and gaming.
 
-## 🌐 Connect With Me
+- 🎮 Game development and gameplay systems
+- ⚙️ C# and Unity development
+- 🌐 Full-stack application development
+- 🤖 AI integrations and intelligent applications
+- 🚀 Performance, scalability, and clean architecture
 
-- 📧 Email: iceman-sys@example.com  
-- 🔗 [Portfolio](https://iceman-sys.dev)  
-- 💼 [LinkedIn](https://linkedin.com/in/iceman-sys)  
-- 🐦 [Twitter](https://twitter.com/iceman_sys)  
-- 📱 [GitHub](https://github.com/iceman-sys)
+## 🛠️ Technology Stack
 
----
+**Game Development**
 
-## 📚 Currently Learning
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-- **AI/ML Integration** with TensorFlow.js and PyTorch  
-- **Serverless Architectures** on AWS Lambda and Vercel  
-- **Advanced Solidity & Smart Contract Security**  
-- **Web3 Authentication & Wallet Integration**
+**Frontend & Backend**
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## ✨ Why I Love Lovable
+**Database & Infrastructure**
 
-> "Lovable isn't just about building apps—it's about creating experiences that **feel human**. I'm excited to contribute my technical expertise and passion for user-centered design to help shape the future of digital interaction."
-
----
-
-> 🌟 **Let’s connect!** I'm always open to discussing new tech, collaborations, or just geeking out over the latest frameworks.  
-> 💬 **Say hello**—I’d love to hear from you!
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📌 Generated with ❤️ using GitHub Profile Cards & Custom Themes
+## ⭐ Featured Projects
+
+### 🤖 [AI-chatbot](https://github.com/iceman-sys/AI-chatbot)
+
+AI chat application supporting different AI models.
+
+`TypeScript` `AI` `Chatbot`
+
+### 💻 [icem](https://github.com/iceman-sys/icem)
+
+Explore FrostCoder and the project's source code.
+
+`Development` `TypeScript`
+
+### 🏥 [orthoticapp](https://github.com/iceman-sys/orthoticapp)
+
+Explore the application and its implementation.
+
+`TypeScript`
+
+### 📊 [primecfo](https://github.com/iceman-sys/primecfo)
+
+Explore the project's source code and technical implementation.
+
+`TypeScript`
 
 ---
 
-### ✅ Features of This Design:
-- **Clean, modern layout** with clear sections.
-- **Visual hierarchy** using emojis and spacing.
-- **Interactive cards** for GitHub stats.
-- **Skill matrix** for easy scanning.
-- **Professional tone** with a personal touch.
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iceman-sys&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceman-sys&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=iceman-sys&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🌟 What I'm Interested In
+
+- 🎮 Innovative game mechanics and gameplay experiences
+- 🌍 Multiplayer systems and real-time applications
+- 🤖 AI-powered interactive experiences
+- ⚡ High-performance software architecture
+- 🧩 Open-source development and collaboration
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iceman-sys)
+
+**Let's build something interesting together!**
+
+</div>
+
+---
+
+<div align="center">
+
+*Building • Creating • Innovating* 🚀
+
+</div>
